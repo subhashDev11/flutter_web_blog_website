@@ -1,5 +1,8 @@
 # flutter bloging website back with firebase
 
+## tutorial videos
+https://youtu.be/hquebyIc8WU?si=EC2N0OrfyB3raSBV
+
 ### live demo 
 https://articles.autoformsai.com/
 
