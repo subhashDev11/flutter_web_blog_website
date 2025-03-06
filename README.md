@@ -1,16 +1,8 @@
-# autoformsai_blogs
+# flutter bloging website back with firebase
 
-A new Flutter project.
+### live demo 
+https://articles.autoformsai.com/
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/315b2f9f-96ae-4d6d-abc5-6efe2fde81d5)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/e2cd8337-8435-47ce-8d72-9578ab405009)
